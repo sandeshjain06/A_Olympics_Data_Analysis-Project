@@ -17,9 +17,13 @@ Medal - Medal by every players .
 
 Entire Project is divided into 4 parts.
 1.Medal Tally
+
 2.Overall Analysis
+
 3.Country-Wise Analysis
+
 4.Atheltes-Wise Analysis
+
 
 
 - Screenshot of First Page
