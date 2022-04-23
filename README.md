@@ -1,11 +1,10 @@
 # Olympics Data Analysis
 
 - Gives a overview of complete Olympics events.
-- 
+
 - Dataset consists of  271116 rows and 15 columns.
 
-- Columns are (['ID', 'Name', 'Sex', 'Age', 'Height', 'Weight', 'Team', 'NOC', 'Games',
-       'Year', 'Season', 'City', 'Sport', 'Event', 'Medal'],
+- Columns are (['ID', 'Name', 'Sex', 'Age', 'Height', 'Weight', 'Team', 'NOC', 'Games','Year', 'Season', 'City', 'Sport', 'Event', 'Medal'],
 
 Name,Sex - consists of player name , and gender
 
@@ -37,7 +36,7 @@ Entire Project is divided into 4 parts.
 
 
 - Screenshot of First Page
-- 
+
 ![image](https://user-images.githubusercontent.com/91243691/164917144-bd084d13-199f-47cc-a4e3-53d900fce394.png)
 
 
