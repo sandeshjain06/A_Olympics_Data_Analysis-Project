@@ -1,12 +1,12 @@
 # Olympics Data Analysis
 
-- This project gives overview of complete Olympics events which i got from kaggle , 
+- Click link to check the website hosted on Heroku platform - https://olympicsinfoapp.herokuapp.com/
 
-- Click here to check the dataset : https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results.
+- This project gives overview of complete Olympics events , got dataset from kaggle .
+
+- Click link to check the dataset : https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results.
 
 - Dataset consists of  271116 rows and 15 columns.
-
-- Click here to check the site hosted on Heroku platform - https://olympicsinfoapp.herokuapp.com/
 
 - Columns are (['ID', 'Name', 'Sex', 'Age', 'Height', 'Weight', 'Team', 'NOC', 'Games','Year', 'Season', 'City', 'Sport', 'Event', 'Medal'],
 
