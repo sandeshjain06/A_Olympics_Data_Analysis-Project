@@ -6,7 +6,7 @@
 
 - Dataset consists of  271116 rows and 15 columns.
 
-
+- Click here to check the site hosted on Heroku platform - https://olympicsinfoapp.herokuapp.com/
 
 - Columns are (['ID', 'Name', 'Sex', 'Age', 'Height', 'Weight', 'Team', 'NOC', 'Games','Year', 'Season', 'City', 'Sport', 'Event', 'Medal'],
 
