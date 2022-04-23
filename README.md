@@ -1,8 +1,8 @@
 # Olympics Data Analysis
 
-- Gives a overview of complete Olympics events which i got from kaggle , 
+- This project gives overview of complete Olympics events which i got from kaggle , 
 
-- Click here to check the dataset = https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results.
+- Click here to check the dataset : https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results.
 
 - Dataset consists of  271116 rows and 15 columns.
 
