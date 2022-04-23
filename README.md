@@ -1,10 +1,15 @@
 # Olympics Data Analysis
 
+Objective - This project gives overview of complete Olympics events.If a user wants to check the performance of any particular country for any particular year , can check on this website.
+
+
 - Click link to check the website hosted on Heroku platform - https://olympicsinfoapp.herokuapp.com/
 
-- This project gives overview of complete Olympics events , got dataset from kaggle .
-
 - Click link to check the dataset : https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results.
+
+- Screenshot of Website
+
+![image](https://user-images.githubusercontent.com/91243691/164917144-bd084d13-199f-47cc-a4e3-53d900fce394.png)
 
 - Dataset consists of  271116 rows and 15 columns.
 
@@ -27,21 +32,13 @@ Event - events name in olympics .
 Medal - Medal by every players .
 
 
+
 Entire Project is divided into 4 parts.
 
-1.Medal Tally 
 
-2.Overall Analysis  
-
-3.Country-Wise Analysis  
-
-4.Atheltes-Wise Analysis 
+1.Medal Tally    2.Overall Analysis   3.Country-Wise Analysis   4.Atheltes-Wise Analysis 
 
 
-- Screenshot of Website
-
-
-![image](https://user-images.githubusercontent.com/91243691/164917144-bd084d13-199f-47cc-a4e3-53d900fce394.png)
 
 
 1.Medal Tally
@@ -57,6 +54,7 @@ Entire Project is divided into 4 parts.
 - If we want to fetch medal details basec on particular country and years.
 
 ![image](https://user-images.githubusercontent.com/91243691/164919922-625cbf31-69e3-4508-b01c-9bc41b1487f0.png)
+
 
 
 2.Overall Analysis
@@ -91,6 +89,7 @@ Entire Project is divided into 4 parts.
 - Successful atheltes for any particular Sports.
 
 ![image](https://user-images.githubusercontent.com/91243691/164924353-50571989-2a25-4eda-8e51-0fcf9b123cfc.png)
+
 
 
 
