@@ -1,6 +1,7 @@
 # Olympics Data Analysis
 
-Objective - This project gives overview of complete Olympics events.If a user wants to check the performance of any particular country for any particular year , can check on this website.
+Objective - Gives overview of complete Olympics events. If a user wants to check the performance of any particular country for any particular year in Olpmpics games ,
+this site can give a clear prespective about it.
 
 
 - Click link to check the website hosted on Heroku platform - https://olympicsinfoapp.herokuapp.com/
@@ -9,7 +10,7 @@ Objective - This project gives overview of complete Olympics events.If a user wa
 
 - Screenshot of Website
 
-![image](https://user-images.githubusercontent.com/91243691/164917144-bd084d13-199f-47cc-a4e3-53d900fce394.png)
+![image](https://user-images.githubusercontent.com/91243691/164948172-5fcec6fb-0620-4937-9051-39fff0771fc7.png)
 
 - Dataset consists of  271116 rows and 15 columns.
 
@@ -36,8 +37,16 @@ Medal - Medal by every players .
 Entire Project is divided into 4 parts.
 
 
-1.Medal Tally    2.Overall Analysis   3.Country-Wise Analysis   4.Atheltes-Wise Analysis 
+1.Medal Tally    
 
+
+2.Overall Analysis   
+
+
+3.Country-Wise Analysis  
+
+
+4.Atheltes-Wise Analysis 
 
 
 
