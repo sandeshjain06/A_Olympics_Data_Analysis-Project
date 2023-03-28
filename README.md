@@ -7,6 +7,12 @@ Business Requirement:
 To provide an interactive and user-friendly interface to users to analyze and visualize data. This includes performance of athletes and countries and other various factors that influence the outcome of the games. It will be helpful for sports analysts, journalists, and enthusiasts to provide them with comprehensive understanding of the Olympics sports.
 
 
+Roles and Responsibilities:
+●	Gathered data from multiple sources , cleaning data and transforming data into suitable format for analysis.
+●	Subdivided the project into 4 parts such as Medal Tally , Overall Analysis , Country Wise Analysis , Athlete Wise Analysis .
+●	Created different visualizations for ‘Diff Medal Won by Countries’,’Participating nations over time;’Male-Female participation,’Top Atheletes sport wise’,’Height Vs weight comparison’,’Sports over the time’.
+●	Deployed project on streamlit platform so that it can be accessed by users.
+
 
 
 
