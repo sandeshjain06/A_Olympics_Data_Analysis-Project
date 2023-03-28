@@ -1,12 +1,16 @@
 # Olympics Data Analysis
 
-Objective - Gives overview of complete Olympics events. If a user wants to check the performance of any particular country for any particular year in Olpmpics games ,
-this site can give a clear prespective about it.
+Business Requirement: 
+To provide an interactive and user-friendly interface to users to analyze and visualize data. This includes performance of athletes and countries and other various factors that influence the outcome of the games. It will be helpful for sports analysts, journalists, and enthusiasts to provide them with comprehensive understanding of the Olympics sports.
+
 
 
 - Click link to check the website hosted on Heroku platform - https://olympicsinfoapp.herokuapp.com/
 
+
 - Click link to check the dataset : https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results.
+
+
 
 - Screenshot of Website
 
@@ -34,19 +38,18 @@ Medal - Medal by every players .
 
 
 
+
 Entire Project is divided into 4 parts.
 
 
 1.Medal Tally    
 
-
 2.Overall Analysis   
-
 
 3.Country-Wise Analysis  
 
-
 4.Atheltes-Wise Analysis 
+
 
 
 
